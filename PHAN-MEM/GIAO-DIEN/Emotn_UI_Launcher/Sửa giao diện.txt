@@ -1,0 +1,5 @@
+Phóng to đồng hồ
+Emotn_UI_Launcher_TV_1.1.0.0_45\res\layout\fragmnet_main.xml
+Tìm đoạn 
+app:gon_paddingLeft="17" app:gon_paddingRight="17" app:gon_textSize="32"
+Thay = gon_textSize="132"
